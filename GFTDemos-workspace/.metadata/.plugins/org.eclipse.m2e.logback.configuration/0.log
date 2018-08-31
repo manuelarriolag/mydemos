@@ -1,0 +1,641 @@
+2018-08-29 21:24:30,506 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-clientes-admin:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/pom.xml.
+2018-08-29 21:24:30,937 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 21:24:31,138 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config-client:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config-client/pom.xml.
+2018-08-29 21:24:36,577 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:24:36,582 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:24:36,583 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 21:24:36,595 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:24:36,596 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:24:37,344 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:24:37,345 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:24:37,364 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:24:37,367 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:24:37,367 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 21:24:38,020 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:24:38,020 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:24:38,020 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:24:38,023 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:24:38,023 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config-client/src/test/resources
+2018-08-29 21:28:02,308 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:28:02,310 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:28:02,311 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:28:02,312 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:28:02,312 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:28:56,865 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:28:56,868 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:28:56,869 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:28:56,870 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:28:56,871 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 21:29:36,461 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:29:36,462 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:29:36,462 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:29:36,464 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:29:36,464 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 21:30:41,639 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:30:41,640 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:30:41,640 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:30:41,641 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:30:41,642 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:32:45,834 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:32:45,835 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:32:45,835 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:32:45,837 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:32:45,837 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:34:11,970 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:34:11,971 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:34:11,971 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:34:11,973 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:34:11,973 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 21:38:58,589 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:38:58,591 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:38:58,591 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:38:58,593 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:38:58,593 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 21:39:33,748 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:39:33,750 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 21:39:33,750 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:39:33,751 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:39:33,751 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 21:43:38,308 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:43:38,309 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:43:38,310 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:43:38,311 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:43:38,311 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:47:09,168 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:47:09,169 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:47:09,169 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:47:09,170 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:47:09,170 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:50:04,655 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:50:04,659 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:50:04,659 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 21:50:04,663 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:50:04,663 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:51:52,296 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:51:52,297 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:51:52,298 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 21:51:52,299 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:51:52,299 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 21:56:03,978 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:56:03,980 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 21:56:03,981 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 21:56:03,985 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 21:56:03,985 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:00:33,174 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:00:33,175 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:00:33,176 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:00:33,177 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:00:33,177 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:00:39,685 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:00:39,685 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:00:39,685 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:00:39,687 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:00:39,687 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:04:21,264 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:04:21,265 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:04:21,266 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:04:21,270 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:04:21,270 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:04:54,105 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:04:54,107 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:04:54,108 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:04:54,110 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:04:54,110 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:05:06,800 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:05:06,801 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:05:06,801 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:05:06,803 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:05:06,803 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:07:00,952 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:07:00,954 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:07:00,955 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:07:00,956 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:07:00,956 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:08:46,180 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:08:46,181 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:08:46,182 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:08:46,183 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:08:46,183 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:12:34,553 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:12:34,555 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:12:34,555 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:12:34,556 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:12:34,557 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:13:46,619 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:13:46,621 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:13:46,621 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:13:46,622 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:13:46,622 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:14:38,797 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:14:38,801 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:14:38,801 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:14:38,805 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:14:38,805 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:16:53,117 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:16:53,121 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:16:53,122 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:16:53,125 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:16:53,125 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:18:34,835 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:18:34,835 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:18:34,836 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:18:34,837 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:18:34,837 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:24:19,965 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:24:19,972 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:24:19,973 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-29 22:24:19,986 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:24:19,986 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-29 22:24:20,541 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:24:20,542 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 22:24:20,549 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 22:24:20,552 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:24:20,552 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:31:36,210 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:31:36,652 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:31:36,653 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:31:36,653 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:31:36,655 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:31:36,655 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:31:42,195 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:31:42,372 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:31:42,372 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:31:42,372 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:31:42,374 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:31:42,374 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:31:55,497 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:31:55,670 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:31:55,670 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:31:55,670 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:31:55,672 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:31:55,672 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:31:59,819 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/spotify/docker-maven-plugin/maven-metadata.xml
+2018-08-29 22:31:59,883 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/spotify/docker-maven-plugin/maven-metadata.xml
+2018-08-29 22:31:59,931 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/spotify/docker-maven-plugin/1.1.1/docker-maven-plugin-1.1.1.pom
+2018-08-29 22:31:59,976 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/spotify/docker-maven-plugin/1.1.1/docker-maven-plugin-1.1.1.pom
+2018-08-29 22:32:00,020 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/spotify/docker-maven-plugin/1.1.1/docker-maven-plugin-1.1.1.jar
+2018-08-29 22:32:00,100 [Worker-21: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/spotify/docker-maven-plugin/1.1.1/docker-maven-plugin-1.1.1.jar
+2018-08-29 22:32:00,266 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:32:00,481 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:32:00,481 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:32:00,481 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:32:00,482 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:32:00,482 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:32:29,916 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:32:30,070 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:32:30,071 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:32:30,071 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:32:30,072 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:32:30,072 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:32:55,638 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:32:55,800 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:32:55,800 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:32:55,800 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:32:55,803 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:32:55,803 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:33:00,765 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:33:00,964 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:33:00,965 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:33:00,965 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:33:00,966 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:33:00,966 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 22:33:56,384 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-08-29 22:34:20,107 [Worker-21: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config
+2018-08-29 22:34:20,107 [Worker-21: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B docker:build
+2018-08-29 22:51:47,061 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 22:51:47,443 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:51:47,443 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:51:47,443 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 22:51:47,445 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 22:51:47,445 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:01:38,050 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:01:38,264 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:01:38,264 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:01:38,264 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:01:38,265 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:01:38,265 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:01:50,918 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-08-29 23:01:51,027 [Worker-21: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config
+2018-08-29 23:01:51,027 [Worker-21: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B docker:build
+2018-08-29 23:05:20,472 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:05:20,615 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:05:20,615 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:05:20,615 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:05:20,616 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:05:20,616 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:07:02,223 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-08-29 23:07:28,546 [main] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:10:06,771 [Worker-33: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config
+2018-08-29 23:10:06,772 [Worker-33: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B docker:build
+2018-08-29 23:11:19,067 [Worker-30: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:11:19,400 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:11:19,400 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:11:19,400 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:11:19,401 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:11:19,401 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:11:32,354 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-08-29 23:11:32,444 [Worker-34: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config
+2018-08-29 23:11:32,445 [Worker-34: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B docker:build
+2018-08-29 23:15:34,068 [Worker-34: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:15:34,357 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:15:34,357 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:15:34,357 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:15:34,358 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:15:34,358 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:15:36,781 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-29 23:15:36,970 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:15:37,182 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mag-demos-config/src/main/java
+2018-08-29 23:15:37,183 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mag-demos-config/src/main/resources
+2018-08-29 23:15:37,183 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mag-demos-config/src/main/resources
+2018-08-29 23:15:37,183 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mag-demos-config/src/test/java
+2018-08-29 23:15:37,307 [Worker-34: Updating mag-demos-config Sources] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-08-29 23:15:38,822 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:15:38,822 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:15:38,825 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:15:38,827 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:15:38,828 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:15:55,493 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2018-08-29 23:15:55,582 [Worker-41: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config
+2018-08-29 23:15:55,582 [Worker-41: Launching mag-demos-config] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B docker:build
+2018-08-29 23:16:17,194 [Worker-34: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:16:17,461 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:16:17,462 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:16:17,462 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:16:17,463 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:16:17,464 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:16:18,492 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-29 23:16:18,667 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:16:18,857 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mag-demos-config/src/main/java
+2018-08-29 23:16:18,858 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mag-demos-config/src/main/resources
+2018-08-29 23:16:18,858 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mag-demos-config/src/main/resources
+2018-08-29 23:16:18,858 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mag-demos-config/src/test/java
+2018-08-29 23:16:18,939 [Worker-40: Updating mag-demos-config Sources] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-08-29 23:16:19,583 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:16:19,584 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:16:19,585 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:16:19,587 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:16:19,588 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:18:10,781 [Worker-40: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.manuelarriola.demos:mag-demos-config:0.0.1-SNAPSHOT @ /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/pom.xml.
+2018-08-29 23:18:11,016 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:18:11,017 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:18:11,017 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:18:11,018 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:18:11,018 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:43:48,542 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:43:48,546 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:43:48,547 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:43:48,549 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:43:48,549 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:51:14,850 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:51:14,851 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:51:14,853 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-29 23:51:14,854 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:51:14,854 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-29 23:56:15,889 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:56:15,895 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:56:15,897 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-29 23:56:15,899 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-29 23:56:15,899 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 00:05:42,576 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 00:05:42,579 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 00:05:42,579 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 00:05:42,582 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 00:05:42,582 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 00:06:14,175 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 00:06:14,176 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 00:06:14,176 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 00:06:14,182 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 00:06:14,182 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 00:09:40,792 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 00:09:40,793 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 00:09:40,793 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 00:09:40,796 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 00:09:40,796 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 20:46:27,575 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:46:27,585 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:46:27,586 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-30 20:46:27,602 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:46:27,602 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 20:46:28,610 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:46:28,610 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 20:46:28,618 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 20:46:28,620 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:46:28,621 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 20:54:56,991 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:54:57,004 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:54:57,005 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:54:57,012 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:54:57,012 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 20:55:42,453 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:55:42,454 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:55:42,454 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:55:42,456 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:55:42,456 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 20:55:42,465 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:55:42,465 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:55:42,465 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 20:55:42,466 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 20:55:42,466 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:15:39,931 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:15:39,935 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 21:15:39,937 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 21:15:39,939 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:15:39,939 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:16:11,055 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:16:11,055 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:16:11,056 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:16:11,057 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:16:11,058 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:16:28,259 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:16:28,260 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:16:28,260 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:16:28,263 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:16:28,263 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:27:26,920 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:27:26,922 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:27:26,922 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:27:26,923 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:27:26,924 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:33:32,173 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:33:32,174 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:33:32,174 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:33:32,180 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:33:32,182 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:34:00,024 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:34:00,024 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:34:00,024 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:34:00,026 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:34:00,026 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-30 21:49:07,707 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:49:07,709 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:49:07,709 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:49:07,710 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:49:07,710 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 21:50:15,995 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:50:15,997 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:50:15,997 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 21:50:15,998 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 21:50:15,998 [Worker-60: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 21:54:53,191 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2018-08-30 21:55:42,950 [Worker-54: Launching mag-demos-clientes-admin] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin
+2018-08-30 21:55:42,952 [Worker-54: Launching mag-demos-clientes-admin] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests 
+2018-08-30 22:35:44,174 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 22:35:44,175 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 22:35:44,175 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 22:35:44,177 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 22:35:44,177 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 23:25:11,028 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:25:11,042 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 23:25:11,043 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 23:25:11,050 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:25:11,050 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 23:30:12,351 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:30:12,353 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 23:30:12,354 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-30 23:30:12,359 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:30:12,359 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 23:50:07,431 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:50:07,433 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 23:50:07,435 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 23:50:07,441 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:50:07,441 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-30 23:50:56,520 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:50:56,521 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 23:50:56,521 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-30 23:50:56,524 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-30 23:50:56,524 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:48:28,175 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:48:28,177 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:48:28,177 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-31 00:48:28,180 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:48:28,180 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:49:18,958 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:18,959 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:18,959 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:18,961 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:18,961 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:49:19,019 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:19,019 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:19,019 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:19,021 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:19,021 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-31 00:49:25,036 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:25,036 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:25,036 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:25,038 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:25,038 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:49:25,048 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:25,048 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:25,048 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:25,049 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:25,049 [Worker-111: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-31 00:49:36,786 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:36,787 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:36,787 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:36,790 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:36,790 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:49:36,801 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:36,802 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:36,802 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:36,804 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:36,805 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-31 00:49:47,079 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:47,079 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:47,079 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:47,080 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:47,081 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:49:47,093 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:47,093 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:47,093 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:49:47,095 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:49:47,095 [Worker-112: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-31 00:50:02,914 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:50:02,915 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:50:02,915 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:50:02,916 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:50:02,916 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 00:50:02,956 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:50:02,956 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:50:02,956 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 00:50:02,958 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 00:50:02,958 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-31 01:26:25,652 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:26:25,653 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 01:26:25,653 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-31 01:26:25,657 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:26:25,657 [Worker-122: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 01:31:26,697 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:31:26,700 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 01:31:26,700 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 01:31:26,703 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:31:26,703 [Worker-123: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 01:38:50,077 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:38:50,079 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 01:38:50,079 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 01:38:50,082 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:38:50,082 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 01:38:50,094 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:38:50,095 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 01:38:50,095 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 01:38:50,096 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 01:38:50,096 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/src/test/resources
+2018-08-31 02:13:09,649 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:13:09,651 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:13:09,651 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:13:09,653 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:13:09,653 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 02:14:04,418 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:14:04,419 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:14:04,419 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:14:04,420 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:14:04,420 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 02:14:23,001 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:14:23,001 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:14:23,002 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:14:23,004 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:14:23,004 [Worker-135: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 02:20:14,383 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:14,384 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:20:14,384 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 02:20:14,388 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 02:20:14,388 [Worker-132: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:03:57,857 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:57,858 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:03:57,859 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:03:57,860 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:57,861 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:03:58,923 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:58,929 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:03:58,931 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:03:58,932 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:03:58,932 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:04:14,595 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:04:14,595 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:04:14,596 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:04:14,597 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:04:14,598 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:04:56,314 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:04:56,315 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:04:56,315 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:04:56,317 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:04:56,317 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:05:08,370 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:08,371 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:05:08,372 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:05:08,373 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:08,374 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:05:14,874 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:14,875 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:05:14,876 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:05:14,877 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:14,877 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:05:28,260 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:28,261 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:05:28,261 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:05:28,262 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:28,263 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:05:36,060 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:36,061 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:05:36,061 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:05:36,062 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:36,062 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:05:56,858 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:56,859 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:05:56,860 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:05:56,861 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:05:56,861 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:06:10,934 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:06:10,934 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:06:10,934 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:06:10,937 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:06:10,937 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:06:18,173 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:06:18,174 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:06:18,174 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:06:18,176 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:06:18,176 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:07:27,069 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:27,070 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:07:27,070 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:07:27,071 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:27,071 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:07:34,574 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:34,575 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:07:34,575 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:07:34,577 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:34,577 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:07:54,564 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:54,564 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:07:54,565 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:07:54,566 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:07:54,566 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:08:21,267 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:21,267 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:08:21,268 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:08:21,270 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:21,270 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:08:29,170 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:29,171 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:08:29,171 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:08:29,172 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:08:29,172 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:09:08,358 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:08,359 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:09:08,359 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:09:08,361 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:08,361 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:09:31,962 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:31,963 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:09:31,964 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:09:31,966 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:09:31,966 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:10:09,897 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:09,898 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:10:09,898 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:10:09,900 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:09,900 [Worker-145: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:10:19,422 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:19,424 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:10:19,424 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:10:19,426 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:19,426 [Worker-151: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:10:44,958 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:44,959 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:10:44,959 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:10:44,962 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:10:44,962 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:11:13,464 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:11:13,465 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:11:13,465 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:11:13,466 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:11:13,466 [Worker-147: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:13:50,380 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:13:50,381 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:13:50,381 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-31 03:13:50,383 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:13:50,383 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:13:57,242 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:13:57,242 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:13:57,243 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-31 03:13:57,245 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:13:57,245 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:14:29,888 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:14:29,889 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:14:29,889 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-31 03:14:29,891 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:14:29,891 [Worker-152: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:20:42,005 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:20:42,007 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:20:42,008 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:20:42,013 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:20:42,013 [Worker-159: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:20:53,895 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:20:53,895 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:20:53,896 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:20:53,898 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:20:53,898 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources
+2018-08-31 03:21:19,226 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:21:19,227 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-31 03:21:19,227 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-31 03:21:19,228 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-31 03:21:19,228 [Worker-153: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/manuelarriola/Documents/My Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-clientes-admin/src/test/resources

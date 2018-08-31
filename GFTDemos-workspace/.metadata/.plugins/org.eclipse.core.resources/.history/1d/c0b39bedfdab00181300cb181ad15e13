@@ -1,0 +1,11 @@
+server:
+  port: 9898
+spring:
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          searchLocations: file:/Users/manuelarriola/Documents/My\ Code/gft-examen-tecnico/GFTDemos-workspace/CONFIGS
+          #searchLocations: file:C:\My Code\Demos\GFTDemos-workspace\CONFIGS

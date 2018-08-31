@@ -1,0 +1,68 @@
+version: '3.1'
+
+services:
+
+    mongo-srv:
+        image: 
+            mongo:latest
+        hostname:
+            gftbank_mongo_srv
+        restart: 
+            always
+        ports:
+            - 27017:27017
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: mongoadmin
+            MONGO_INITDB_ROOT_PASSWORD: secret
+        volumes:
+            # Path on the host, relative to the Compose file
+            - ./_mongo/data/db:/data/db
+            - ./_mongo/data/configdb:/data/configdb
+    
+    redis-srv:
+        image: 
+            redis:4.0.5-alpine
+        hostname:
+            gftbank_redis_srv
+        restart: 
+            always
+        ports:
+            - 6379:6379
+        volumes:
+            - ./_redis/data:/data
+        command: 
+            ["redis-server", "--appendonly", "yes"]
+
+    config-srv:
+        image: 
+            mag_demos_config:latest
+        hostname:
+            gftbank_config_srv
+        restart: 
+            always
+        ports:
+            - 9898:9898  
+        volumes:
+            # Path on the host, relative to the Compose file
+            - ./mag-demos-config/CONFIGS:/tmp/CONFIGS/:ro
+
+    api-srv:
+        image: 
+            mag_demos_clientes_admin:latest
+        hostname:
+            gftbank_api_srv
+        restart: 
+            always
+        ports:
+            - 8081:8081
+        links:
+            - config-srv
+            - mongo-srv
+            - redis-srv
+        depends_on:
+            - config-srv
+            - mongo-srv
+            - redis-srv
+#        command: 
+#             ["./wait-for", "config-srv:9898", "--", "echo", '"servidor listo"']
+

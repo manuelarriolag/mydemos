@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ClientesAdmin
+  cloud:
+    config:
+      #uri: http://config-srv:9898
+      uri: http://config-srv:9898

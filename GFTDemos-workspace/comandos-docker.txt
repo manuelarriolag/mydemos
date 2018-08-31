@@ -1,0 +1,46 @@
+##docker network create --subnet=172.18.0.0/16 mynet123
+
+
+##docker run --name gftbank_mongo_srv --network=mynet123 --ip 172.18.0.2 -d -p 27017:27017 mongo
+
+
+
+
+
+################ mag_demos_config
+
+./mvnw clean package
+
+docker build -t mag_demos_config .
+
+##docker run --name gftbank_config_srv --network=mynet123 --ip 172.18.0.3 -d -p 9898:9898 mag_demos_config
+
+##docker image rm -f mag_demos_config
+
+
+
+
+################ mag_demos_clientes_admin
+
+./mvnw clean package -Dmaven.test.skip=true
+
+docker build -t mag_demos_clientes_admin .
+
+docker run --name gftbank_api_srv -d -p 8081:8081 mag_demos_clientes_admin
+
+
+##docker run --name gftbank_api_srv --network=mynet123 --ip 172.18.0.4 -d -p 8081:8081 mag_demos_clientes_admin
+
+##docker image rm -f mag_demos_clientes_admin
+
+##cp -a /Users/manuelarriola/Documents/My\ Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/CONFIGS/. /Users/manuelarriola/Documents/Kitematic/gftbank_config_srv/tmp/CONFIGS/
+
+
+
+https://github.com/Eficode/wait-for
+
+git https://github.com/eficode/wait-for.git
+
+./wait-for localhost:9898 -- echo "config-srv is ready"
+
+./wait-for config-srv:9898 --timeout=120 -- echo "config-srv is ready"

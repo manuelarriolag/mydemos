@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ClientesAdmin
+  cloud:
+    config:
+      uri: http://mongo-srv:9898

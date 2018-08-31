@@ -1,0 +1,84 @@
+package org.manuelarriola.demos.controllers;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Optional;
+
+import org.manuelarriola.demos.models.Cliente;
+import org.manuelarriola.demos.models.ClienteListResponse;
+import org.manuelarriola.demos.models.ResponseStateEnum;
+import org.manuelarriola.demos.repositories.ClienteRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Primary;
+import org.springframework.stereotype.Service;
+
+@Service
+@Primary
+public class ClienteServiceImpl implements ClienteService {
+
+	@Autowired
+    ClienteRepository repository;
+
+	@Override
+	public ClienteListResponse findAll() {
+		ClienteListResponse resp = new ClienteListResponse(true, 
+				ResponseStateEnum.CON_DATOS.getValue(), ResponseStateEnum.CON_DATOS.toString(), "Datos obtenidos exitósamente");
+		
+		resp.setList(repository.findAll());
+		
+		return resp;
+
+	}
+
+	@Override
+	public ClienteListResponse findByNombre(String nombre) {
+		ClienteListResponse resp = new ClienteListResponse(true, 
+				ResponseStateEnum.CON_DATOS.getValue(), ResponseStateEnum.CON_DATOS.toString(), "Datos obtenidos exitósamente");
+		
+		List<Cliente> list = repository.findByNombre(nombre);
+		if (list.size() == 0) {
+			resp.setStatus(ResponseStateEnum.SIN_DATOS.getValue());
+			resp.setStatusText(ResponseStateEnum.SIN_DATOS.toString());
+			resp.setMessage("No se encontraron datos que coincidan con la consulta");
+		}
+		resp.setList(list);
+		
+		return resp;
+
+	}
+
+	@Override
+	public ClienteListResponse findById(String id) {
+		ClienteListResponse resp = new ClienteListResponse(true, 
+				ResponseStateEnum.CON_DATOS.getValue(), ResponseStateEnum.CON_DATOS.toString(), "Datos obtenidos exitósamente");
+		
+		List<Cliente> list = new ArrayList<Cliente>();
+		Optional<Cliente> cliente = repository.findById(id);
+		if (cliente.isPresent()) {
+			list.add(cliente.get());
+		} else {
+			resp.setStatus(ResponseStateEnum.SIN_DATOS.getValue());
+			resp.setStatusText(ResponseStateEnum.SIN_DATOS.toString());
+			resp.setMessage("No se encontraron datos que coincidan con la consulta");
+		}
+		resp.setList(list);
+		
+		return resp;
+
+	}
+
+	@Override
+	public ClienteListResponse save(Cliente cliente) {
+		ClienteListResponse resp = new ClienteListResponse(true, 
+				ResponseStateEnum.CON_DATOS.getValue(), ResponseStateEnum.CON_DATOS.toString(), "Datos obtenidos exitósamente");
+		
+	}
+	@Override
+	public ClienteListResponse update(Cliente cliente) {
+		// TODO Auto-generated method stub
+		throw new UnsupportedOperationException();
+	}
+
+
+
+}
