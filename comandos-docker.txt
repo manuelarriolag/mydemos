@@ -1,0 +1,84 @@
+docker-compose up -d
+
+docker-compose restart disco-srv
+docker-compose restart gateway-srv
+docker-compose restart api-srv
+
+
+
+
+
+
+
+##docker network create --subnet=172.18.0.0/16 mynet123
+
+
+##docker run --name gftbank_mongo_srv --network=mynet123 --ip 172.18.0.2 -d -p 27017:27017 mongo
+
+docker build -t mag_demos_gateway .
+
+docker build -t mag_demos_discovery .
+
+
+
+################ mag_demos_config
+
+./mvnw clean package
+
+docker build -t mag_demos_config .
+
+##docker run --name gftbank_config_srv --network=mynet123 --ip 172.18.0.3 -d -p 9898:9898 mag_demos_config
+
+##docker image rm -f mag_demos_config
+
+
+
+
+################ mag_demos_clientes_admin
+
+./mvnw clean package -Dmaven.test.skip=true
+
+docker build -t mag_demos_clientes_admin .
+
+docker run --name gftbank_api_srv -d -p 8081:8081 mag_demos_clientes_admin
+
+
+##docker run --name gftbank_api_srv --network=mynet123 --ip 172.18.0.4 -d -p 8081:8081 mag_demos_clientes_admin
+
+##docker image rm -f mag_demos_clientes_admin
+
+##cp -a /Users/manuelarriola/Documents/My\ Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/CONFIGS/. /Users/manuelarriola/Documents/Kitematic/gftbank_config_srv/tmp/CONFIGS/
+##cp -a /Users/manuelarriola/Documents/My\ Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/CONFIGS/. /tmp/CONFIGS/
+
+
+
+https://github.com/Eficode/wait-for
+
+git https://github.com/eficode/wait-for.git
+
+./wait-for localhost:9898 -- echo "config-srv is ready"
+
+./wait-for config-srv:9898 --timeout=120 -- echo "config-srv is ready"
+
+
+
+
+docker tag mag_demos_config:latest manuelarriolag/repo-demos:latest
+docker tag mag_demos_clientes_admin:latest manuelarriolag/repo-demos:latest
+
+
+{"installed":{"client_id":"358537729909-qle9algqhamj4er3ouo6v89hnns180l6.apps.googleusercontent.com",
+"project_id":"myspringclouddemo",
+"auth_uri":"https://accounts.google.com/o/oauth2/auth",
+"token_uri":"https://www.googleapis.com/oauth2/v3/token",
+"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+"client_secret":"wLb7mDOFLQ9MyB5AWQsCVOpp",
+"redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
+
+
+http://localhost:8080/login?state=17e9ub&code=4/TwDSH91bFCVfz49mkVt_E-JBd5PVGefTdYBFPrp_rO_2pxqthPICNwa-54qA7JQUARTX7Zpkn3CCdqJ9xTr6RE0
+
+mkdir /tmp/CONFIGS
+ln /Users/manuelarriola/Documents/My\ Code/gft-examen-tecnico/GFTDemos-workspace/mag-demos-config/CONFIGS/* /tmp/CONFIGS
+
+

@@ -1,0 +1,53 @@
+
+
+https://angularfirebase.com/lessons/ionic-google-login-with-firebase-and-angularfire/#Initial-Setup
+
+sudo npm install -g ionic cordova
+
+sudo npm i -g npm to update 
+
+ionic start mag-demos-gftbank tabs --id org.manuelarriolag.gftbank
+
+npm install firebase angularfire2 promise-polyfill --save
+
+keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
+
+password: android
+
+Enter keystore password: android
+Alias name: androiddebugkey
+Creation date: Jul 29, 2018
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Sun Jul 29 11:04:59 CDT 2018 until: Tue Jul 21 11:04:59 CDT 2048
+Certificate fingerprints:
+	 MD5:  C4:E1:31:FE:D8:CC:51:11:86:EB:74:A1:3B:EB:1B:FF
+	 SHA1: 55:A9:EE:30:7B:C1:52:7F:C8:79:04:34:B8:BA:1E:27:F2:88:1C:FA
+	 SHA256: 06:2E:4C:66:45:1F:B9:64:93:09:E1:6F:70:2A:44:2C:5C:FC:6E:E2:5C:52:A3:98:11:F2:52:03:B3:71:3B:FC
+	 Signature algorithm name: SHA1withRSA
+	 Version: 1
+
+
+
+ionic cordova plugin add cordova-plugin-googleplus --variable REVERSED_CLIENT_ID=com.googleusercontent.apps.9782284321-ugnb0agd6noof1t261n2d1p09kl895km
+
+npm install --save @ionic-native/google-plus
+
+ionic generate component google-login
+
+webClientId
+9782284321-6ia79mrjpp5p2o7qkl70mft1ue0jnqsv.apps.googleusercontent.com
+
+ionic cordova build ios
+
+ionic cordova run ios
+
+
+
+***********************
+
+ionic start ionic-client tabs --id org.manuelarriolag.gftbank

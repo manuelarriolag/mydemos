@@ -1,0 +1,55 @@
+server:
+  port: 8080
+  #use-forward-headers: true
+
+
+
+zuul:
+  routes:
+    api:
+      url: http://api-srv:8081
+      #serviceId: googleapis
+
+ribbon:
+  eureka:
+    enabled: false
+
+#googleapis:
+#  ribbon:
+#    ListOfServers: googleapis.com
+
+#proxy:
+#  auth:
+#    routes:
+#      api: oauth2
+#      api: passthru
+#      api: none 
+
+security:
+  # Disable Spring Boot basic authentication
+  basic:
+    enabled: false
+  oauth2:
+    client:
+      clientId: 358537729909-qle9algqhamj4er3ouo6v89hnns180l6.apps.googleusercontent.com
+      clientSecret: wLb7mDOFLQ9MyB5AWQsCVOpp
+      accessTokenUri: https://www.googleapis.com/oauth2/v3/token
+      userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+      #tokenName: ACCESS_TOKEN
+      clientAuthenticationScheme: query
+      scope: openid profile email
+    resource:
+      loadBalanced: false
+      userInfoUri: https://www.googleapis.com/plus/v1/people/me
+      preferTokenInfo: false
+
+#feign:
+#  hystrix:
+#    enabled: true
+    
+#hystrix:
+#  shareSecurityContext: true
+
+
+
+  

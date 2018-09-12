@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: GatewayServer
+  cloud:
+    config:
+      uri: http://config-srv:9898
+
+

@@ -1,0 +1,17 @@
+server:
+  port: 8081
+  
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://disco-srv:9899/eureka/
+      
+spring:
+    data:
+        mongodb:
+            host: mongo-srv
+            port: 27017
+            authentication-database: admin
+            username: mongoadmin
+            password: secret
+            database: mag

@@ -1,0 +1,93 @@
+version: '3.1'
+
+services:
+
+    mongo-srv:
+        image: 
+            mongo:latest
+        hostname:
+            mongo-srv
+        restart: 
+            always
+        ports:
+            - 27017:27017
+        environment:
+            MONGO_INITDB_ROOT_USERNAME: mongoadmin
+            MONGO_INITDB_ROOT_PASSWORD: secret
+        volumes:
+            # Path on the host, relative to the Compose file
+            - ./_mongo/data/db:/data/db
+            - ./_mongo/data/configdb:/data/configdb
+    
+    redis-srv:
+        image: 
+            redis:4.0.5-alpine
+        hostname:
+            redis-srv
+        restart: 
+            always
+        ports:
+            - 6379:6379
+        volumes:
+            - ./_redis/data:/data
+        command: 
+            ["redis-server", "--appendonly", "yes"]
+
+    config-srv:
+        image: 
+            mag_demos_config:latest
+        hostname:
+            config-srv
+        restart: 
+            always
+        ports:
+            - 9898:9898  
+        volumes:
+            # Path on the host, relative to the Compose file
+            - ./mag-demos-config/CONFIGS:/tmp/CONFIGS/:ro
+
+    disco-srv:
+        image: 
+            mag_demos_discovery:latest
+        hostname:
+            disco-srv
+        restart: 
+            always
+        ports:
+            - 9899:9899
+        links:
+            - config-srv
+            
+    gateway-srv:
+        image: 
+            mag_demos_gateway:latest
+        hostname:
+            gateway-srv
+        restart: 
+            always
+        ports:
+            - 8080:8080
+        links:
+            - config-srv
+            - disco-srv
+            - api-srv
+
+    api-srv:
+        image: 
+            mag_demos_clientes_admin:latest
+        hostname:
+            api-srv
+        restart: 
+            always
+        ports:
+            - 8081:8081
+        links:
+            - config-srv
+            - disco-srv
+            - mongo-srv
+            - redis-srv
+#        command: 
+#             ["./wait-for", "config-srv:9898", "--", "echo", '"servidor listo"']
+
+
+                   

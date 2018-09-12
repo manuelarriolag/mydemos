@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: DiscoveryServer
+  cloud:
+    config:
+      uri: http://config-srv:9898
+    
