@@ -5,7 +5,7 @@ logging:
     org.springframework.security: DEBUG
     org.springframework.cloud: DEBUG
     org.springframework.web: WARN
-    org.manuelarriola.demos: ALL
+    org.manuelarriola.demos: DEBUG
     
 server:
   port: 8080

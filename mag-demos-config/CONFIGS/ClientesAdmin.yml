@@ -1,3 +1,10 @@
+logging:
+  level:
+    org.springframework.security: ERROR
+    org.springframework.cloud: ERROR
+    org.springframework.web: ERROR
+    org.manuelarriola.demos: DEBUG
+    
 server:
   port: 8081
   

@@ -18,6 +18,7 @@ public interface ClienteService {
 	ClienteListResponse findById(String id);
 	ClienteListResponse findByNombre(String nombre);
 	ClienteListResponse save(Cliente cliente);
-	ClienteListResponse update(Cliente cliente);
+	ClienteListResponse update(Cliente cliente, String id);
+	ClienteListResponse delete(String id);
 
 }

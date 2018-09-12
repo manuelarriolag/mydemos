@@ -51,7 +51,12 @@ public class ClienteServiceMock implements ClienteService {
 	}
 
 	@Override
-	public ClienteListResponse update(Cliente cliente) {
+	public ClienteListResponse update(Cliente cliente, String id) {
+		throw new UnsupportedOperationException();
+	}
+
+	@Override
+	public ClienteListResponse delete(String id) {
 		throw new UnsupportedOperationException();
 	}
 
