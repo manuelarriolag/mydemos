@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{ action }} Cliente</ion-title>
+
+    <ion-buttons end *ngIf="!isNew">
+        <button ion-button (click)="delete()">
+            <ion-icon name="trash"></ion-icon>
+        </button>
+      </ion-buttons>
+
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding class="page-detail">
+
+  <form (ngSubmit)="submit()">
+      <ion-input type="hidden" [(ngModel)]="item.id" name="id"></ion-input>
+
+      <ion-item>
+          <ion-label floating>Nombre</ion-label>
+          <ion-input type="text" required [(ngModel)]="item.nombre" name="nombre"></ion-input>
+        </ion-item>
+  
+        <ion-item>
+            <ion-label floating>Apellidos</ion-label>
+            <ion-input type="text" required [(ngModel)]="item.apellidos" name="apellidos"></ion-input>
+          </ion-item>
+    
+        <ion-item>
+          <ion-label floating>Domicilio</ion-label>
+          <ion-input type="text" [(ngModel)]="item.domicilio" name="domicilio"></ion-input>
+        </ion-item>
+  
+      <!-- <button ion-button block (click)="save()">
+          Guardar
+      </button> -->
+      
+      <button ion-button full color="primary" style="margin-top: 20px;" type="submit">Guardar</button>        
+
+  </form>
+
+</ion-content>

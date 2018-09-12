@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Clientes</ion-title>
+
+    <ion-buttons end>
+      <button ion-button (click)="showDetail()">
+          <ion-icon name="add"></ion-icon>
+      </button>
+    </ion-buttons>
+
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-list>
+ 
+      <button ion-item *ngFor="let cliente of clientes" (click)="showDetail(cliente)">
+        {{ cliente.nombre }} {{ cliente.apellidos }}
+        <ion-icon name="arrow-dropright" item-end></ion-icon>
+      </button>  
+    </ion-list>
+    
+</ion-content>
