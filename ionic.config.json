@@ -1,7 +1,0 @@
-{
-  "name": "mag-demos-gftbank",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
